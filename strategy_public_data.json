@@ -1,0 +1,142 @@
+{
+  "public_1": {
+    "name": "Euro Dollar",
+    "type": "Technical",
+    "platform": "MetaTrader 4",
+    "gain": 575.6,
+    "absGain": 202.78,
+    "daily": 0.21,
+    "monthly": 6.35,
+    "drawdown": 28.05,
+    "balance": 33901.93,
+    "equity": 33899.03,
+    "highest": 45201.29,
+    "profit": 64888.43,
+    "interest": -674.9,
+    "deposits": 32000,
+    "withdrawals": 62986.5,
+    "updated": "44 minutes ago",
+    "tracking": 25,
+    "monthlyGain": [
+      4.2,
+      8.6,
+      2.8,
+      2.5,
+      4.3,
+      2.1
+    ],
+    "periods": {
+      "week": {
+        "gain": 0.26,
+        "profit": 93.03,
+        "pips": -92.1,
+        "win": -1,
+        "trades": -222
+      },
+      "month": {
+        "gain": 2.25,
+        "profit": 754.57,
+        "pips": -363.2,
+        "win": 0,
+        "trades": -732
+      },
+      "year": {
+        "gain": 28.95,
+        "profit": 8119.65,
+        "pips": 2357.4,
+        "win": -3,
+        "trades": -8945
+      }
+    },
+    "advanced": {
+      "totalTrades": 35211,
+      "winRate": 74,
+      "longs": 74,
+      "shorts": 73,
+      "avgWin": 5.73,
+      "avgLoss": -14.12,
+      "best": 55.4,
+      "worst": -193.6,
+      "profitFactor": 2.09,
+      "stdDev": 0.0,
+      "sharpe": 0.0,
+      "zscore": -116.09,
+      "expectancy": 0.5,
+      "ahpr": 0.0,
+      "ghpr": 0.0,
+      "lots": 10.0,
+      "commissions": -10455.29,
+      "avgLength": "4h 55m"
+    }
+  },
+  "public_2": {
+    "name": "FxCanadian",
+    "type": "Technical",
+    "platform": "MetaTrader 5",
+    "gain": 68.63,
+    "absGain": 54.39,
+    "daily": 0.1,
+    "monthly": 3.06,
+    "drawdown": 9.57,
+    "balance": 1532.67,
+    "equity": 1507.77,
+    "highest": 1714.46,
+    "profit": 815.74,
+    "interest": -54.2,
+    "deposits": 1500.0,
+    "withdrawals": 783.0,
+    "updated": "Jun 14 at 04:59",
+    "tracking": 2,
+    "monthlyGain": [
+      5.2,
+      2.4,
+      5.1,
+      4.8,
+      3.5,
+      1.2
+    ],
+    "periods": {
+      "week": {
+        "gain": 0.82,
+        "profit": 122.51,
+        "pips": -28.2,
+        "win": 0,
+        "trades": -51
+      },
+      "month": {
+        "gain": 0.82,
+        "profit": 122.51,
+        "pips": -28.2,
+        "win": 0,
+        "trades": -51
+      },
+      "year": {
+        "gain": 24.29,
+        "profit": 341.53,
+        "pips": 1956.7,
+        "win": 2,
+        "trades": -192
+      }
+    },
+    "advanced": {
+      "totalTrades": 944,
+      "winRate": 74,
+      "longs": 75,
+      "shorts": 72,
+      "avgWin": 20.84,
+      "avgLoss": -47.94,
+      "best": 93.5,
+      "worst": -397.2,
+      "profitFactor": 1.65,
+      "stdDev": null,
+      "sharpe": 0.11,
+      "zscore": -2.74,
+      "expectancy": 3.0,
+      "ahpr": 0.06,
+      "ghpr": 0.05,
+      "lots": 14.1,
+      "commissions": -45.07,
+      "avgLength": "2d"
+    }
+  }
+}
