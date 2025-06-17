@@ -21,3 +21,4 @@ Panel profesional para visualización y control de estrategias de trading (demo 
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/wp-uruguay/tracktrader.git
+2. Ver en produccion: https://nextlevel.wpuruguay.com 
