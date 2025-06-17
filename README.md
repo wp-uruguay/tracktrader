@@ -9,7 +9,7 @@ Panel profesional para visualización y control de estrategias de trading (demo 
 - Estadísticas, sentimiento del mercado
 - Visualización de estrategias públicas
 
-## 🛠 Tecnologías
+## Tecnologías
 
 - PHP (sin framework)
 - TailwindCSS
