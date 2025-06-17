@@ -2,14 +2,14 @@
 
 Panel profesional para visualización y control de estrategias de trading (demo y reales vía Myfxbook).
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - Conexión con Myfxbook API
 - Gestión de cuentas demo y reales
 - Estadísticas, sentimiento del mercado
 - Visualización de estrategias públicas
 
-## 🛠️ Tecnologías
+## 🛠 Tecnologías
 
 - PHP (sin framework)
 - TailwindCSS
